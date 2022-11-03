@@ -1,1 +1,2 @@
-this is a file 1 added 
+this is a file 1.
+Adding some extra lines which will be removed 
